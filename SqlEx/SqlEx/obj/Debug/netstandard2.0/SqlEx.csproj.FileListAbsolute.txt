@@ -1,0 +1,13 @@
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\bin\Debug\netstandard2.0\SqlEx.deps.json
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\bin\Debug\netstandard2.0\SqlEx.dll
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\SqlEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\SqlEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\SqlEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\bin\Debug\netstandard2.0\ref\SqlEx.dll
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\bin\Debug\netstandard2.0\SqlEx.pdb
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\SqlEx.dll
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\ref\SqlEx.dll
+C:\Users\santosh\source\repos\SqlEx\SqlEx\SqlEx\obj\Debug\netstandard2.0\SqlEx.pdb

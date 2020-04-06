@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:SqlEx"
+             mc:Ignorable="d"
+             x:Class="SqlEx.MainPage">
+
+    <StackLayout>
+
+        <local:RoundedEntry Placeholder="Enter your name"/>
+
+        <local:RoundedEntry Placeholder="Enter your address"/>
+
+        <local:RoundedEntry  Placeholder="Enter your number"/>
+
+        <Entry x:Name="etData" Placeholder="Enter you data"/>
+        
+        
+        <Entry x:Name="etEmpName" Placeholder="Enter Employee Name"/>
+        <Entry x:Name="etEmpAddress" Placeholder="Enter Employee Address"/>
+
+        <local:CustomLabel Text="Register for new user ?"/>
+
+
+        <local:CustomLabel Text="Forgot Password"/>
+
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnAddEmp" Text="Add Emp"/>
+            <Button x:Name="btnupdate" Text="Update"/>
+            <Button x:Name="btnDel" Text="Delect"/>
+        </StackLayout>
+
+        <ListView x:Name="lblEmpList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding EmpName}" FontSize="Default"/>
+                                <Label Text="{Binding EmpAddress}" FontSize="Default"/>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+
+
+    </StackLayout>
+</ContentPage>
